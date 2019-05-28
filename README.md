@@ -1,4 +1,4 @@
-# dog_breed_predition
+# dog_breed_classifier
 Transfer learning CNN model to classify dog breed
 
 *This was a project during my Udacity AI Programming with Python(AIPND) Nano-Degree 
